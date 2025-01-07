@@ -5,3 +5,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoPaganelli&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=FilippoPaganelli.github.io&langs_count=8&layout=compact&hide=HTML)
 
 [![](https://visitcount.itsvg.in/api?id=FilippoPaganelli&icon=0&color=2)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=FilippoPaganelli)
